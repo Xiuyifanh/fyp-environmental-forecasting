@@ -1,3 +1,7 @@
 venv/
 __pycache__/
 .ipynb_checkpoints/
+lightning_logs/
+notebooks/lightning_logs/
+*.tfevents.*
+hparams.yaml
