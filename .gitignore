@@ -8,3 +8,20 @@ hparams.yaml
 lightning_logs/
 *.ckpt
 checkpoints/
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.pdf
+
+# LaTeX source (not ready to push yet)
+main.tex
+references.bib
